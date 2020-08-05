@@ -1,11 +1,8 @@
-```markdown
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
-
-# Thiago Marinho
+# Camille Júlia Passos
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
-Sou um FullStack Developer :computer:
+Sou uma Front-End Developer :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **Rocketseat**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
