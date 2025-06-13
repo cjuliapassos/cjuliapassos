@@ -1,11 +1,10 @@
 
-Hi :exclamation: :exclamation:
+:wave:  Hi, I'm Camille Passos :exclamation:
 
-:wave:  &nbsp;My name is Camille Júlia Passos. <br>
-:mortar_board:  &nbsp; I'm an Information Systems student. <br>
-:rocket: &nbsp; I am currently studying at Rocketseat to deepen my web development <br> 
-:dart: &nbsp; My skills: HTML, CSS and JS <br>
+:mortar_board:  &nbsp; Graduated in System Analysis and Development. <br>
+:rocket: &nbsp; Working as QA Jr focusing on test automation with Playwright <br> 
+:dart: &nbsp; My skills: HTML, CSS, JS, Python, ReactJS, TS, Cypress, Selenium, Playwright, Git. <br>
 :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-CamilleOliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/camille-oliveira-055433198/) &nbsp; | &nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-camillespaos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camillespaos@gmail.com.com)](mailto:camillespaos@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-camillepassoli16@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camillepassoli16@gmail.com.com)](mailto:camillespaos@gmail.com)
 <br>
 :heart: &nbsp; Thanks for reading this! <br>
