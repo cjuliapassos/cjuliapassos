@@ -1,13 +1,5 @@
 # 👋 Oi, eu sou a Camille
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
-![QA](https://img.shields.io/badge/QA-Quality%20Driven-success?style=for-the-badge)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=camille-oliveira\&show_icons=true\&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camille-oliveira\&layout=compact)
-
 💻 Desenvolvedora Frontend focada em **React, Next.js e TypeScript**, com **experiência em QA (Quality Assurance)**.
 
 Sou apaixonada por construir produtos digitais simples, úteis e bem pensados — especialmente **aplicações web, micro-SaaS e ferramentas para pessoas reais**. Minha vivência em QA me ajuda a escrever código mais robusto, testável e orientado à qualidade.
